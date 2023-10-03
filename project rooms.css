@@ -1,0 +1,22 @@
+body{
+    background-image: url(night2.jpg);
+    background-size: cover;
+}
+.card-text{
+    text-align: center;
+    font-family:French Script MT;
+    font-size: 200%;
+}
+.card-title{
+    text-align: center;
+    font-family: Matura MT Script Capitals;
+}
+.card{
+    border: 100px;
+    border-color: blueviolet;
+}
+
+.nav-link{
+      color: black;
+
+}

@@ -1,0 +1,44 @@
+body{
+    background-image:url("hotel3.jpg");
+    background-size: cover;
+    background:(76, 175, 80, 0.3);
+}
+.navbar-brand{
+    font-family: cursive bold;
+    font-size: 20px;
+    color: aquamarine;
+
+}
+img{
+    opacity: 5.0;
+}
+.carousel-caption{
+    color: rgb(195, 75, 206);
+}
+h1 {
+  font-family:Edwardian Script ITC;
+    color:rgb(195, 75, 206);
+
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  }
+  .glow {
+    font-family:Edwardian Script ITC;
+    color: rgb(68, 176, 209);
+    text-align: center;
+    animation: glow 1s ease-in-out infinite alternate;
+  }
+  @-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px rgb(129, 18, 124), 0 0 20px rgb(77, 7, 77), 0 0 30px #ba4cc9, 0 0 40px #e60073, 0 0 50px #290423, 0 0 60px #e60073, 0 0 70px #72119e;
+    }
+    
+    to {
+      text-shadow: 0 0 20px rgb(75, 7, 75), 0 0 30px #630e5e, 0 0 40px #531c6d, 0 0 50px #951e99, 0 0 60px #a3175d, 0 0 70px #54157e, 0 0 80px #6f229c;
+    }
+  }
+  p{
+    font-family:Edwardian Script ITC;
+    font-size: 50px;
+    font-weight: 200;
+    color: rgb(13, 13, 71);
+  }

@@ -1,0 +1,21 @@
+
+   div {
+    border: 10px solid rgb(7, 85, 116);
+    margin-left: 100px;
+  }
+  
+  p.ex1 {
+    margin-left: inherit;
+  }
+       
+      
+      body {
+        color: red;
+      }
+      boxex{
+           background-color: violet;
+           text-align: center;
+          color: black;
+          border: 50px solid purple;
+          margin: 10px;
+      }
